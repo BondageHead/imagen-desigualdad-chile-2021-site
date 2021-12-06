@@ -1,1 +1,1 @@
-#Estudio de Reproducibilidad: Imágenes de Desigualdad en Chile
+# Estudio de Reproducibilidad: Imágenes de Desigualdad en Chile
