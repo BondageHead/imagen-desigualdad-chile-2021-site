@@ -1,0 +1,128 @@
+---
+title: "Estudio de reproducibilidad: Imágenes de desigualdad en Chile"
+author: "Matias Quintana Vilches"
+date: "29-10-2021"
+output: html_document
+csl: input/bib/apa.csl
+bibliography: input/bib/bibliografia.bib
+---
+
+
+```{r pressure, echo=FALSE}
+
+
+```
+
+
+# **Resumen**
+
+¿Cuán desigual perciben los ciudadanos que es la sociedad chilena? ¿Ha cambiado la imágen que los chilenos tienen de esa desigualdad en los últimos años? ¿ Qué factores determinan los niveles de desigualdad percibidos? El presente trabajo aborda estas preguntas utilizando datos provenientes de las encuestas del Centro de Estudios Públicos (CEP.). Los resultados muestran que los chilenos perciben mayoritariamente que viven en una sociedad desigual, que esas percepciones han variado poco a poco entre 2000 y 2013, aunque muestran una tendencia levemente más positiva para 2013 y que los principales determinantes de estas percepciones son económicos y no políticos.
+
+Fuente: @segoviaImagenesDesigualdadChile2015
+
+# **Antecedentes**
+
+## Medición de las percepciones de la desigualdad
+
+  ¿Cuanta desigualdad perciben los ciudadanos? Existe en general, la presunción de que las personas no saben o no conocen cuáles son las diferencias de ingresos entre distintos grupos de la sociedad y por lo tanto, que tienen una estimación equivocada, habitualmente menor, de los niveles de desigualdad económica (@bartelsUnequalDemocracyPolitical2008 ; @pageClassWar2009). Esta presunción se basa habitualmente en argumentos y evidencia empírica asociados a los bajos niveles de conocimiento que en general, caracterizarían a la opinión pública (@converseAssessingCapacityMass2000; @zallerNatureOriginsMass1992).
+
+  La investigación comparada sobre percepciones de desigualdad de los ciudadanos ha utilizado tres instrumentos principales. El primero y más usado se basa en la pregunta (que se ha hecho en múltiples estudios de opinión) sobre el grado de acuerdo o desacuerdo que tienen las personas (utilizando una escala de Lickert) con la afirmación de si "las diferencias de ingresos en [Chile] son demasiado grandes". La investigación basada en este tipo de pregunta muestra los niveles de conocimiento sobre la desigualdad son bajos y poco precisos (@bartelsUnequalDemocracyPolitical2008 ; @mccallTheyKnowThey2005 ; @mccallAmericansSocialPolicy2009 ; @mccallUndeservingRichAmerican2013). Esto puede estar asociado sin embargo, más que a falta de conocimiento, a la utilización de medidas poco discriminantes. Un primer problema de esta pregunta es que mayorías significativas de entrevistados en distintos países, tienden a estar de acuerdo con la afirmación, generando resultados que discriminan poco y que no permiten distinguir claramente las percepciones de los ciudadanos. El segundo es que combina en un solo ítem la percepción sobre la cantidad de desigualdad con una actitud evaluativa hacia ella. Al señalar que la desigualdad es "demasiado" grande, el entrevistado puede estar haciendo un juicio de cantidad, pero también una evaluación negativa de esos niveles de desigualdad (@mccallTheyKnowThey2005). En sínstesis, este instrumento no ha sido objeto de fuerte críticas respecto a su confiabilidad y validez, por lo tanto, no lo consideramos útil para este trabajo.
+
+  Este segundo instrumento se basa en las preguntas sobre cuánto se estima que ganan las personas que trabajan en algunas ocupaciones. Con estos datos es posible estimar una brecha de ingresos entre ocupaciones de más alto y más bajo prestigio social. En una realizada en Estados Unidos utilizando este tipo de preguntas, Page y Jacobs (@pageClassWar2009) muestran que las personas perciben grandes diferencias en los ingresos recibidos por diferentes ocupaciones y que estas estimaciones son bastante acertadas cuando se las compara con datos oficiales para esos mismos grupos. Page y Jacobs muestran además, que las brechas percibidas entre aquellos grupos que ganan más y aquellos grupos que ganan menos han aumentado y que esta tendencia, aunque levemente desfasada en el tiempo, se relaciona  con la trayectoria de los niveles de inequidad observados en Estados Unidos (@pageClassWar2009). Este parece ser entonces, un mejor instrumento para medir las percepciones de desigualdad (@kelleyLegitimationInequalityOccupational1993; @kelleyEconomicChangeLegitimation2004 ; @pageClassWar2009). Estas preguntas sin embargo, han sido implementadas solo en dos oportunidades en las encuestas del CEP, por lo que no son tan apropiadas para evaluar el cambio en las percepciones de desigualdad.
+
+  La tercera forma de medir las percepciones de desigualdad -y que utilizaremos en este trabajo- se basa en un tipo de pregunta incluido en las encuestas que le pide a los entrevistados observar unas imágenes, leer sus descripciones y señalar qué tipo de sociedad es el país (Chile) hoy. Esta medición permite evaluar las *imágenes* de desigualdad de los ciudadanos con respecto al país en el que viven. La **Figura N°1** muestra la forma en que se realiza esta pregunta.
+
+  Este instrumento de medición de percepciones fue desarrollado por Evans, Kelley y Kolosi (@evansImagesClassPublic1992) y se ha incluido en los estudios sobre desigualdad económica del International Social Survey Programme (ISSP) desde 1992, y del CEP en Chile desde el año 2000. Aunque ha sido poco utilizada en la investigación comparada, esta pregunta tiene una serie de ventajas. Primero, no requiere de conocimiento directo por parte de los entrevistados para contestar cómo perciben los ciudadanos la sociedad en que viven. La respuesta puede ser construida utilizando distintas fuentes de información y buscan evaluar cuán igual o desigual se percibe que es la sociedad en su conjunto. De acuerdo a Evans, Kelley y Kolosi, la investigación muestra que las personas desarrollan imágenes de las sociedades en las que viven y que esas imágenes son medibles (@evansImagesClassPublic1992).
+  
+**Tabla 01: Imágenes de desigualdad** (Gráfico detallando las respuestas a la pregunta "En estos diagramas)
+
+
+  
+  Esta pregunta mide percepciones sin confundirlas con la evaluación que los individuos pueden tener de esa desigualdad, uno de los problemas de las preguntas que utilizan escalas de acuerdo, como se explicó anteriormente. En efecto, esta pregunta solo busca conocer cómo las personas perciben la sociedad en la que viven. Si se quisiera evaluar la valoración de los niveles de desigualdad (p.e., preguntar qué tan legítimos son), entonces se podrían incluir otras preguntas sobre por ejemplo, cómo debería ser Chile. De esta manera no se confunden distintos tipos de evaluaciones en un solo ítem (@evansImagesClassPublic1992). Finalmente, esta pregunta es relativamente sencilla, ya que al presentar imágenes ayuda al entrevistado con respecto al texto que describe cada tipo de sociedad (@evansImagesClassPublic1992). 
+
+  La poca evidencia de la que se dispone sobre esta forma de medir percepciones de desigualdad indica que las personas son capaces de distinguir el tipo de sociedad en la que viven y que esas percepciones corresponden con el nivel de desigualdad económica medido a través de indicadores como el GINI (@evansImagesClassPublic1992). Adicionalmente, esta pregunta ha demostrado su utilidad al evaluar percepciones de desigualdad en contextos políticos y sociales diversos, constituyendo así un instrumento válido y confiable (@cuneoInternationalImagesSocial1996; @castilloPercepcionDesigualdadEconomica2012; @evansImagesClassPublic1992).
+
+## Determinantes individuales de las percepciones de desigualdad
+
+En general, la investigación asociada a los determinantes de las percepciones de desigualdad económica puede ser dividida en dos grupos. Una primera línea de investigación se concentra en el estudio de los determinantes de la legitimidad de la desigualdad económica, esto es, explica que las personas asignen a una situación de desigualdad mayor o menor legitimidad (@austenNormsInequalityJournal; @blofieldPUBLICOPINIONINCOME2015 ; @cramerViewsEconomicInequality2011 ; @kelleyLegitimationInequalityOccupational1993). La segunda línea de investigación se concentra en el estudio de los determinantes de cuánta desigualdad perciben las personas (@bartelsUnequalDemocracyPolitical2008; @castilloPercepcionDesigualdadEconomica2012; @mccallUndeservingRichAmerican2013; @pageClassWar2009).
+
+Este trabajo se inscribe en la segunda línea mencionada y propone un modelo de análisis de las determinantes de las percepciones de desigualdad en Chile. Este es un tópico de primera importancia ya que, como lo ha demostrado la investigación comparada, las percepciones sobre desigualdad son determinantes de cuestiones políticamente relevantes, como los niveles de participación política y electoral (@schattschneiderSemisovereignPeopleRealists1960; @soltEconomicInequalityDemocratic2008; @soltDoesEconomicInequality2010), el nivel de demanda de políticas redistributivas (@meltzerRationalTheorySize1981) o las preferencias de las personas entre partidos de distinta tendencia ideológica (@andersonSensitiveLeftImpervious2008; @andersonLeftPartiesPoor2012)
+
+Ahora bien, ¿qué determina las percepciones sobre los niveles de desigualdad? ¿Qué factores nos permiten explicar que algunos individuos perciban mayor desigualad que otros en sus sociedades? La investigación se ha centrado en dos conjuntos de variables a nivel individual que explicarían el nivel de desigualdad percibido por las personas: aquellos asociados a factores económicos y otros relacionados con actitudes políticas.
+
+## El impacto de los factores económicos en las percepciones de desigualdad
+
+La investigación ha mostrado que distintos tipos de factores económicos pueden estar asociados a las percepciones de desigualdad que reportan los ciudadanos. En primer lugar, se ha indagado en torno al impacto que el estatus socioeconómico de las personas (medido habitualmente por el nivel de ingreso y el nivel educacional) pueda tener en las percepciones de desigualdad. Existen aquí dos hipótesis que van en direcciones opuestas. Por una parte, para algunos autores se debe esperar una percepción de mayor desigualdad entre quienes poseen menores niveles de ingreso. Al ser los más afectados por la desigualdad, estos grupos percibirían una mayor desigualdad económica en la sociedad, exhibirían una mayor preocupación por esos niveles de desigualdad y tendrían una evaluación más negativa de ella que grupos con mayores niveles de ingresos (@evansImagesClassPublic1992; @schattschneiderSemisovereignPeopleRealists1960).
+
+Por otra parte, se observa que la estimación de ingresos es más exacta entre los gruposde profesiones más cercanas en la vida cotidiana a los entrevistados (@pageClassWar2009) y que las percepciones de desigualdad se asocian positivamente a mayor ingreso y mayor nivel educacional (@castilloPercepcionDesigualdadEconomica2012; @bartelsUnequalDemocracyPolitical2008; @mccallTheyKnowThey2005; @mccallUndeservingRichAmerican2013; @pageClassWar2009). Esto estaría asociado a que las personas de ingresos y niveles educacionales saltos tendrían un mayor conocimiento de los niveles y evolución de la desigualdad y podrían por lo tanto, generar estimaciones más precisas (@bartelsUnequalDemocracyPolitical2008; @mccallTheyKnowThey2005). Como respuesta a estas expectativas dispares planteadas por la literatura, en este trabajo esperamos encontrar evidencia de una relación –que puede ser positiva o negativa– entre el estatus socio-económico y las percepciones de desigualdad de los entrevistados.
+
+Cramer y Kaufman (2011) muestran que la percepción de los niveles de desigualdad en América Latina está influida de manera significativa por las percepciones económicas de los individuos. Es así como ellos encuentran que mientras más negativa sea la percepción de la situación económica actual y las expectativas a futuro, mayor será la evaluación negativa de la desigualdad (@cramerViewsEconomicInequality2011). Siguiendo a esta literatura, planteamos como hipótesis que las percepciones de desigualdad en Chile serán mayores entre quienes perciben la situación económica del país en forma negativa.
+
+## El impacto de actitudes políticas en las percepciones de desigualdad
+
+Desde otro ángulo, la investigación académica ha mostrado que existe una importante relación entre la posición política de los individuos y las percepciones que ellos tienen sobre la desigualdad. En efecto, se encuentra en forma consistente que se percibe mayor desigualdad –y se evalúa en forma negativa– entre quienes se identifican con la izquierda (@bartelsUnequalDemocracyPolitical2008; @mccallUndeservingRichAmerican2013; @pageClassWar2009). En este trabajo entonces, esperamos observar una relación entre posición política y percepciones de desigualdad en Chile acorde con estos resultados.
+
+En esta línea se inserta el único análisis detallado sobre percepciones de desigualdad en Chile (@castilloPercepcionDesigualdadEconomica2012). En este trabajo los autores evalúan percepciones de desigualdad utilizando tres medidas diferentes: brechas de ingresos entre profesiones, percepción general de desigualdad y percepción diagramática de desigualdad para el año 2009. Con respecto a las percepciones diagramáticas –que son las que estudiaremos aquí– los autores muestran que están positivamente relacionadas con el estatus económico subjetivo, es decir que a mayor estatus, la sociedad chilena se percibe como más desigual. También indican que no se observan, para ese año, asociaciones estadísticamente significativas con la posición política de los entrevistados. En este trabajo avanzamos en esta misma línea, ampliando el número de mediciones utilizadas para observar los determinantes de las percepciones de desigualdad en un período de más de 13 años (2000-2013), lo que no se había realizado hasta ahora.
+
+*Fuente: Segovia, C., & Gamboa, R. (2015). Imágenes de desigualdad en Chile: El impacto de factores económicos y políticos. Papel Politico, 20(2), 481–500. https://doi.org/10.11144/Javeriana.papo20-2.idc*
+
+# **Metodología**
+
+## Datos
+
+Para la selección de datos utilizados en nuestro estudio trabajaremos con una variable dependiente para representar 
+
+## Variables
+
+### Variable dependiente: Imágenes de desigualdad
+
+
+![](input/images/figura1.jpg){width=1057px height=572}
+
+
+
+### Variables independiente: Factores económicos
+
+### Variables independiente: Factores políticos
+
+
+**Tabla 02: Tabla de información de variables**
+
+
+| Variable 	| Definición 	| Valores 	|
+|:---:	|---	|---	|
+| IMAGEN 	| Percepción de los entrevistados del modelo gráfico que representa<br> la sociedad chilena  recodificado como un valor indicador ascendente<br> de desigualdad 	| 1 = Poca desigualdad<br>5 = Mucha desigualdad 	|
+| TOPBOT 	| Nivel económico en el que se ubican los entrevistados. 	| Dónde se ubica usted:<br>1=nivel más bajo<br>10=nivel más alto 	|
+| EDUC 	| Cantidad de años que el entrevistado ha estudiado 	| Valor nominal de años <br>de estudio del entrevistado 	|
+| ECON_M 	| Opinión negativa sobre la situación económica actual de nuestro país 	| Opinión negativa sobre la situación económica<br>actual del país<br><br>Valores recodificados para una variable dummy respecto<br>a valores que se encuentren dentro del rango bueno y muy bueno. 	|
+| ECON_B 	| Opinión positiva sobre la situación económica actual de nuestro país. 	| Opinión positiva sobre la situación económica<br> actual del país.<br>Valores recodificados para una variable dummy respecto<br> a valores que se encuentren dentro del rango malo o<br> muy malo. 	|
+| PROGRE 	| Opinión de los entrevistados sobre si nuestro país ha progresado o no. 	| Variable dummy sobre la opinión de si nuestro país ha progresado.<br>1 = Chile está progresando. 	|
+| ALIANZA 	| Se identifica con partidos de la Alianza. <br>Refiere a partidos de la UDI y Renovación Nacional. 	| Variable dummy que indica la identificación con partidos de la Alianza<br>1 = Se identifica con partidos de la alianza. 	|
+| CONCERTA 	| Se identifica con la Concertación + Partido Comunista.<br> Refiere a partidos del PDC, PRSD, PS, PPD y PC 	| Variable dummy 	|
+| APRUEBA 	| Aprobación del presidente actual.<br> Puede referir a uno diferente dependiendo de la fecha de la encuesta. 	| Variable dummy recodificada entorno a la aprobación del presidente<br>actual con valores 0 o 1, con 1 para aprueba. 	|
+| SEXO 	| Sexo del entrevistado. Variable de control. 	| 1 = Hombre 	|
+| EDAD 	| Edad del entrevistado. Variable de control. 	| Edad en años 	|
+| ECIVIL 	| Estado civil del entrevistado. Variable de control. 	| 1 = Casado 	|
+| TRABAJA 	| Situación laboral del entrevistado 	| Variable dummy recodificada en torno a si el entrevistado<br> se encuentra trabajando a tiempo completo o no. Valor de 1 para<br> entrevistado trabajando a tiempo completo. 	|
+
+# **Análisis**
+
+El objetivo del proceso de análisis consiste en establecer una relación entre la percepción de desigualdad reflejada en la distribución de las respuestas de los entrevistados a la pregunta de asociación de los modelos de sociedad en su percepción de nuestra sociedad y los factores económicos y políticos 
+
+**Tabla 03: Estadísticos descriptivos de variables**
+
+### Regresión múltiple
+
+Para objetivos de este análisis se realizará una regresión lineal para evaluarla influencia de los factores económicos y políticos 
+
+
+# **Conclusión**
+
+
+# Info sesión
+
+```{r, echo=FALSE}
+sessionInfo()
+```
+
+# **Bibliografía**
