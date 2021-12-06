@@ -1,3 +1,1 @@
----
-Title: "Desigualdad"
----
+#Estudio de Reproducibilidad: Imágenes de Desigualdad en Chile
