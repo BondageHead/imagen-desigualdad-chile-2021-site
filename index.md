@@ -52,7 +52,7 @@ Fuente: Segovia, C., & Gamboa, R. (2015). Imágenes de desigualdad en Chile: El 
 
 # Metodología
 
-Para la selección de datos utilizados en nuestro estudio trabajaremos con una variable dependiente para representar
+Para la selección de datos utilizados en nuestro estudio trabajaremos con una variable dependiente para representar el principal factor que se busca leer
 
 
 ## Datos
@@ -61,9 +61,29 @@ Para la selección de datos utilizados en nuestro estudio trabajaremos con una v
 
 ### Variable dependiente: Imágenes de desigualdad
 
+
+
 ### Variables independiente: Factores económicos
 
+- Posición económica percibida
+- Años de estudio
+- Situación económica del país
+- Situación económica del país
+- ¿Está el país progresando?
+
 ### Variables independiente: Factores políticos
+
+- ¿Aprueba al presidente actual? (Independientemente de afiliación política)
+- Identificación política
+ - Alianza
+ - Concertación
+ 
+### Variables de control
+
+- SEXO
+- EDAD
+- ECIVIL (Estado civil: casado o soltero)
+- Estado laboral
 
 # Análisis
 

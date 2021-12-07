@@ -78,8 +78,18 @@ Para la selección de datos utilizados en nuestro estudio trabajaremos con una v
 
 ### Variables independiente: Factores económicos
 
+- Posición económica percibida
+- Años de estudio
+- Situación económica del país
+- Situación económica del país
+- ¿Está el país progresando?
+
 ### Variables independiente: Factores políticos
 
+- ¿Aprueba al presidente actual? (Independientemente de afiliación política)
+- Identificación política
+ - Alianza
+ - Concertación
 
 **Tabla 02: Tabla de información de variables**
 
