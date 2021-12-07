@@ -44,7 +44,16 @@ Cramer y Kaufman (2011) muestran que la percepción de los niveles de desigualda
 
 ## El impacto de actitudes políticas en las percepciones de desigualdad
 
+Desde otro ángulo, la investigación académica ha mostrado que existe una importante relación entre la posición política de los individuos y las percepciones que ellos tienen sobre la desigualdad. En efecto, se encuentra en forma consistente que se percibe mayor desigualdad –y se evalúa en forma negativa– entre quienes se identifican con la izquierda (Bartels (2008); McCall (2013); Page & Jacobs (2009)). En este trabajo entonces, esperamos observar una relación entre posición política y percepciones de desigualdad en Chile acorde con estos resultados.
+
+En esta línea se inserta el único análisis detallado sobre percepciones de desigualdad en Chile (Castillo et al. (2012)). En este trabajo los autores evalúan percepciones de desigualdad utilizando tres medidas diferentes: brechas de ingresos entre profesiones, percepción general de desigualdad y percepción diagramática de desigualdad para el año 2009. Con respecto a las percepciones diagramáticas –que son las que estudiaremos aquí– los autores muestran que están positivamente relacionadas con el estatus económico subjetivo, es decir que a mayor estatus, la sociedad chilena se percibe como más desigual. También indican que no se observan, para ese año, asociaciones estadísticamente significativas con la posición política de los entrevistados. En este trabajo avanzamos en esta misma línea, ampliando el número de mediciones utilizadas para observar los determinantes de las percepciones de desigualdad en un período de más de 13 años (2000-2013), lo que no se había realizado hasta ahora.
+
+Fuente: Segovia, C., & Gamboa, R. (2015). Imágenes de desigualdad en Chile: El impacto de factores económicos y políticos. Papel Politico, 20(2), 481–500. https://doi.org/10.11144/Javeriana.papo20-2.idc
+
 # Metodología
+
+Para la selección de datos utilizados en nuestro estudio trabajaremos con una variable dependiente para representar
+
 
 ## Datos
 
