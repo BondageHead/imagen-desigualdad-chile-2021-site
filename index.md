@@ -1,4 +1,6 @@
-# Imagenes de Desigualdad en Chile
+---
+title: "Imágenes de Desigualdad en Chile"
+---
 
 # Resumen
 
