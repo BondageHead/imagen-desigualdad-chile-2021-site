@@ -75,8 +75,8 @@ Para la selección de datos utilizados en nuestro estudio trabajaremos con una v
 
 - ¿Aprueba al presidente actual? (Independientemente de afiliación política)
 - Identificación política
- - Alianza
- - Concertación
+  * Alianza
+  * Concertación
  
 ### Variables de control
 
