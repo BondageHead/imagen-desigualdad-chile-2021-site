@@ -1,5 +1,5 @@
 ---
-title: "Imágenes de Desigualdad en Chile"
+name: "Imágenes de Desigualdad en Chile"
 ---
 
 # Imágenes de Desigualdad en Chile
