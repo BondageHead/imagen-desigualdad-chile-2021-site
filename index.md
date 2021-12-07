@@ -2,6 +2,8 @@
 title: "Imágenes de Desigualdad en Chile"
 ---
 
+#Imágenes de Desigualdad en Chile
+
 # Resumen
 
 # Antecedentes
