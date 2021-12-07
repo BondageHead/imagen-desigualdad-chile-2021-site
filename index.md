@@ -62,4 +62,27 @@ Cramer y Kaufman (2011) muestran que la percepción de los niveles de desigualda
 
 # Conclusión
 
+# Bibliografía
 
+Anderson, C. J., & Beramendi, P. (2012). Left Parties, Poor Voters, and Electoral Participation in Advanced Industrial Societies. Comparative Political Studies, 45(6), 714–746. https://doi.org/10.1177/0010414011427880
+Anderson, C. J., & Singer, M. M. (2008). The Sensitive Left and the Impervious Right: Multilevel Models and the Politics of Inequality, Ideology, and Legitimacy in Europe. Comparative Political Studies, 41(4-5), 564–599. https://doi.org/10.1177/0010414007313113
+Austen, S. (n.d.). Norms of Inequality: Journal of Economic Issues: Vol 33, No 2. Taylor & Francis, 33(2).
+Bartels, L. M. (2008). Unequal democracy. The Political Economy of the New Gilded Age. New York: Russell Sage Foundation & Princeton University Press.
+Blofield, M., & Luna, J. (2015). PUBLIC OPINION ON INCOME INEQUALITIES IN LATIN AMERICA (pp. 147–182). https://doi.org/10.5325/j.ctv14gp9cw.9
+Castillo, J. C., Miranda, D., & Carrasco, D. (2012). Percepción de Desigualdad Económica en Chile: Medición, Diferencias y Determinantes. Psykhe (Santiago), 21(1), 99–114. https://doi.org/10.4067/S0718-22282012000100007
+Converse, P. E. (2000). Assessing the Capacity of Mass Electorates. Annual Review of Political Science, 3(1), 331–353. https://doi.org/10.1146/annurev.polisci.3.1.331
+Cramer, B. D., & Kaufman, R. R. (2011). Views of Economic Inequality in Latin America - Brian D. Cramer, Robert R. Kaufman, 2011. SAGE Journals, 44(9), 1206–1237.
+Cuneo, C. (1996). International images of social inequality: A ten-country comparison. Social Inequality in Canada, 31–65.
+Evans, M. D., Kelley, J., & Kolosi, T. (1992). Images of class: Public perceptions in Hungary and Australia. American Sociological Review, 461–482.
+Kelley, J., & Evans, M. D. (1993). The legitimation of inequality: Occupational earnings in nine nations. American Journal of Sociology, 99(1), 75–125.
+Kelley, J., & Zagorski, K. (2004). Economic change and the legitimation of inequality: The transition from socialism to the free market in Central-East Europe. Research in Social Stratification and Mobility, 22, 319–364.
+McCall, L. (2005). Do they know and do they care? Americans’ awareness of rising inequality. Work. Pap., Russell Sage Found.
+McCall, L. (2013). The undeserving rich: American beliefs about inequality, opportunity, and redistribution. Cambridge University Press.
+McCall, L., & Kenworthy, L. (2009). Americans’ social policy preferences in the era of rising inequality. Perspectives on Politics, 7(3), 459–484.
+Meltzer, A. H., & Richard, S. F. (1981). A rational theory of the size of government. Journal of Political Economy, 89(5), 914–927.
+Page, B. I., & Jacobs, L. R. (2009). Class War? University of Chicago Press.
+Schattschneider, E. E. (1960). The Semisovereign People: A Realists View of Democracy in America, Illinois. The Drayden Press.
+Segovia, C., & Gamboa, R. (2015). Imágenes de desigualdad en Chile: El impacto de factores económicos y políticos. Papel Politico, 20(2), 481–500. https://doi.org/10.11144/Javeriana.papo20-2.idc
+Solt, F. (2008). Economic inequality and democratic political engagement. American Journal of Political Science, 52(1), 48–60.
+Solt, F. (2010). Does economic inequality depress electoral participation? Testing the Schattschneider hypothesis. Political Behavior, 32(2), 285–301.
+Zaller, J. R. (1992). The nature and origins of mass opinion. Cambridge university press.
