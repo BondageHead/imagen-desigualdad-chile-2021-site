@@ -49,3 +49,17 @@ Cramer y Kaufman (2011) muestran que la percepción de los niveles de desigualda
 ## Datos
 
 ## Variables
+
+### Variable dependiente: Imágenes de desigualdad
+
+### Variables independiente: Factores económicos
+
+### Variables independiente: Factores políticos
+
+# Análisis
+
+## Regresión múltiple
+
+# Conclusión
+
+
